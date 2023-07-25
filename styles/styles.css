@@ -9,11 +9,82 @@
 }
 .vector-head{
     display: flex;
-    gap: 10px;
+    gap: 200px;
 }
 .vector-right{
-
+    margin-left: 50px;
+    margin-right: 50px;
 }
 .vector-image{
-    align-items: end;
+    align-content: end;
+}
+.second-part{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    gap: 100px;
+}
+.knw-btn{
+    
+}
+.vector-head div{
+    flex: 1;
+}
+.second-part div{
+    flex: 1;
+}
+.games-funny-head{
+    text-align: center;
+}
+.games-funny-pic-1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.play-instnt-btn{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    justify-content: center;
+}
+.instnt-text{
+    height: 80px;
+    width: 300px;
+    text-align: center;
+    word-break: break-all;
+}
+.instnt-text-2{
+    text-align: center;
+    height: 80px;
+    width: 300px;
+}
+.anytime{
+    display: flex;
+}
+.anytime-text{
+    height: 80px;
+    width: 300px;
+    text-align: center;
+    word-break: break-all;
+}
+.anytime-text-2{
+    text-align: center;
+    height: 80px;
+    width: 300px;
+}
+.fotter-text1{
+    display: flex;
+    justify-content: center;
+    background-color: #0B0223;
+    color: white;
+}
+.fotter-text2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #0B0223;
+    color: white;
 }
