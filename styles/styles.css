@@ -1,3 +1,19 @@
+.icon-heading-total .icon-right{
+    display: flex;
+}
+.icon-heading-total{
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: space-between;
+    display: flex;
+}
 .vector-head{
     display: flex;
+    gap: 10px;
+}
+.vector-right{
+
+}
+.vector-image{
+    align-items: end;
 }
